@@ -1,1 +1,7 @@
-{"name":"","short_name":"","start_url":"/","display":"minimal-ui","background_color":"#fff","theme_color":"#fff"}
+{
+  "name": "renee.kooi.me",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#fff",
+  "theme_color": "#ff725c"
+}
